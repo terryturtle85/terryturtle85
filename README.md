@@ -4,6 +4,9 @@
 **terryturtle85/terryturtle85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+#### Import/Query Excel
+
+Logic : [**Test1,000,000x10.xlsx**](benchmarks/MiniExcel.Benchmarks/Test1%2C000%2C000x10.xlsx)  as performance test basic file, 1,000,000 rows * 10 columns  "HelloWorld" cells, 23 MB file size  
 
 | Library      | Method                       | Max Memory Usage |         Mean |
 | ---------------------------- | -------------: | ---------------: | ---------------: |
